@@ -20,7 +20,6 @@ var trumpShots = [
 "https://jdneillutd.github.io/trumpquoter9000/trumpshots/republican-us-presidential-nominee-donald-trump-speaks-to-the-detroit-economic-club-at-the-cobo-center-in-detroit-michigan-august-8-2016-reuterseric-thayer.jpg",
 "https://jdneillutd.github.io/trumpquoter9000/trumpshots/trump-debate-finger-pointing.jpg",
 "https://jdneillutd.github.io/trumpquoter9000/trumpshots/trump-nom_custom-31743b9cf3bd7a826fb6ef4d22170f5911a2af98-s900-c85.jpg",
-"https://jdneillutd.github.io/trumpquoter9000/trumpshots/trumpshots.txt",
 "https://jdneillutd.github.io/trumpquoter9000/trumpshots/us-president-elect-donald-trump-speaks-at-his-election-night-rally-in-manhattan-new-york-us-november-9-2016-reuterscarlo-allegri.jpg",
 "https://jdneillutd.github.io/trumpquoter9000/trumpshots/you-have-to-love-thy-neighbor-mexicos-former-president-apologizes-for-condemning-donald-trumps-border-wall-plan.jpg"
 ];
